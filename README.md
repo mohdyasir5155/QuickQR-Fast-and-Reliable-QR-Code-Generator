@@ -1,6 +1,6 @@
 ![Screenshot 2023-07-20 113910](https://github.com/mohdyasir5155/QuickQR-Fast-and-Reliable-QR-Code-Generator/assets/131906472/2bd006c7-741c-4912-b86e-0f6a2e89a799)
 
-<h1 align=center>QuickQR | Fast and Reliable QR Code Generator</h1>
+<h1 align=center>*QuickQR | Fast and Reliable QR Code Generator*</h1>
 
 ## QuickQR: The Simplest QR Maker
 
