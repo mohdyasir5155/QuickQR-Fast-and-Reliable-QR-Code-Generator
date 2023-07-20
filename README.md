@@ -1,4 +1,4 @@
-![Screenshot 2023-07-20 113910](https://github.com/mohdyasir5155/QuickQR-Fast-and-Reliable-QR-Code-Generator/assets/131906472/2bd006c7-741c-4912-b86e-0f6a2e89a799)
+![Screenshot 2023-07-20 121908](https://github.com/mohdyasir5155/QuickQR-Fast-and-Reliable-QR-Code-Generator/assets/131906472/aae9030d-3059-42a0-99b5-7461544e8f84)
 
 <h1 align=center>*QuickQR*</h1>
 
